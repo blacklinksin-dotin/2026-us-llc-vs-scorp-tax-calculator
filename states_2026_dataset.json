@@ -1,0 +1,258 @@
+{
+  "project": "CorpTaxIQ \u2014 2026 US 50-State LLC vs. S-Corp Tax & Insurance Suite",
+  "homepage_url": "https://blacklink.in/",
+  "guides_hub_url": "https://blacklink.in/guides",
+  "methodology_url": "https://blacklink.in/methodology",
+  "state_calculators": [
+    {
+      "state_slug": "alabama",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/alabama",
+      "embed_widget_url": "https://blacklink.in/embed/alabama-llc-calculator"
+    },
+    {
+      "state_slug": "alaska",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/alaska",
+      "embed_widget_url": "https://blacklink.in/embed/alaska-llc-calculator"
+    },
+    {
+      "state_slug": "arizona",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/arizona",
+      "embed_widget_url": "https://blacklink.in/embed/arizona-llc-calculator"
+    },
+    {
+      "state_slug": "arkansas",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/arkansas",
+      "embed_widget_url": "https://blacklink.in/embed/arkansas-llc-calculator"
+    },
+    {
+      "state_slug": "california",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/california",
+      "embed_widget_url": "https://blacklink.in/embed/california-llc-calculator"
+    },
+    {
+      "state_slug": "colorado",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/colorado",
+      "embed_widget_url": "https://blacklink.in/embed/colorado-llc-calculator"
+    },
+    {
+      "state_slug": "connecticut",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/connecticut",
+      "embed_widget_url": "https://blacklink.in/embed/connecticut-llc-calculator"
+    },
+    {
+      "state_slug": "delaware",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/delaware",
+      "embed_widget_url": "https://blacklink.in/embed/delaware-llc-calculator"
+    },
+    {
+      "state_slug": "florida",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/florida",
+      "embed_widget_url": "https://blacklink.in/embed/florida-llc-calculator"
+    },
+    {
+      "state_slug": "georgia",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/georgia",
+      "embed_widget_url": "https://blacklink.in/embed/georgia-llc-calculator"
+    },
+    {
+      "state_slug": "hawaii",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/hawaii",
+      "embed_widget_url": "https://blacklink.in/embed/hawaii-llc-calculator"
+    },
+    {
+      "state_slug": "idaho",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/idaho",
+      "embed_widget_url": "https://blacklink.in/embed/idaho-llc-calculator"
+    },
+    {
+      "state_slug": "illinois",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/illinois",
+      "embed_widget_url": "https://blacklink.in/embed/illinois-llc-calculator"
+    },
+    {
+      "state_slug": "indiana",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/indiana",
+      "embed_widget_url": "https://blacklink.in/embed/indiana-llc-calculator"
+    },
+    {
+      "state_slug": "iowa",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/iowa",
+      "embed_widget_url": "https://blacklink.in/embed/iowa-llc-calculator"
+    },
+    {
+      "state_slug": "kansas",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/kansas",
+      "embed_widget_url": "https://blacklink.in/embed/kansas-llc-calculator"
+    },
+    {
+      "state_slug": "kentucky",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/kentucky",
+      "embed_widget_url": "https://blacklink.in/embed/kentucky-llc-calculator"
+    },
+    {
+      "state_slug": "louisiana",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/louisiana",
+      "embed_widget_url": "https://blacklink.in/embed/louisiana-llc-calculator"
+    },
+    {
+      "state_slug": "maine",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/maine",
+      "embed_widget_url": "https://blacklink.in/embed/maine-llc-calculator"
+    },
+    {
+      "state_slug": "maryland",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/maryland",
+      "embed_widget_url": "https://blacklink.in/embed/maryland-llc-calculator"
+    },
+    {
+      "state_slug": "massachusetts",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/massachusetts",
+      "embed_widget_url": "https://blacklink.in/embed/massachusetts-llc-calculator"
+    },
+    {
+      "state_slug": "michigan",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/michigan",
+      "embed_widget_url": "https://blacklink.in/embed/michigan-llc-calculator"
+    },
+    {
+      "state_slug": "minnesota",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/minnesota",
+      "embed_widget_url": "https://blacklink.in/embed/minnesota-llc-calculator"
+    },
+    {
+      "state_slug": "mississippi",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/mississippi",
+      "embed_widget_url": "https://blacklink.in/embed/mississippi-llc-calculator"
+    },
+    {
+      "state_slug": "missouri",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/missouri",
+      "embed_widget_url": "https://blacklink.in/embed/missouri-llc-calculator"
+    },
+    {
+      "state_slug": "montana",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/montana",
+      "embed_widget_url": "https://blacklink.in/embed/montana-llc-calculator"
+    },
+    {
+      "state_slug": "nebraska",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/nebraska",
+      "embed_widget_url": "https://blacklink.in/embed/nebraska-llc-calculator"
+    },
+    {
+      "state_slug": "nevada",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/nevada",
+      "embed_widget_url": "https://blacklink.in/embed/nevada-llc-calculator"
+    },
+    {
+      "state_slug": "new-hampshire",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/new-hampshire",
+      "embed_widget_url": "https://blacklink.in/embed/new-hampshire-llc-calculator"
+    },
+    {
+      "state_slug": "new-jersey",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/new-jersey",
+      "embed_widget_url": "https://blacklink.in/embed/new-jersey-llc-calculator"
+    },
+    {
+      "state_slug": "new-mexico",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/new-mexico",
+      "embed_widget_url": "https://blacklink.in/embed/new-mexico-llc-calculator"
+    },
+    {
+      "state_slug": "new-york",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/new-york",
+      "embed_widget_url": "https://blacklink.in/embed/new-york-llc-calculator"
+    },
+    {
+      "state_slug": "north-carolina",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/north-carolina",
+      "embed_widget_url": "https://blacklink.in/embed/north-carolina-llc-calculator"
+    },
+    {
+      "state_slug": "north-dakota",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/north-dakota",
+      "embed_widget_url": "https://blacklink.in/embed/north-dakota-llc-calculator"
+    },
+    {
+      "state_slug": "ohio",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/ohio",
+      "embed_widget_url": "https://blacklink.in/embed/ohio-llc-calculator"
+    },
+    {
+      "state_slug": "oklahoma",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/oklahoma",
+      "embed_widget_url": "https://blacklink.in/embed/oklahoma-llc-calculator"
+    },
+    {
+      "state_slug": "oregon",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/oregon",
+      "embed_widget_url": "https://blacklink.in/embed/oregon-llc-calculator"
+    },
+    {
+      "state_slug": "pennsylvania",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/pennsylvania",
+      "embed_widget_url": "https://blacklink.in/embed/pennsylvania-llc-calculator"
+    },
+    {
+      "state_slug": "rhode-island",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/rhode-island",
+      "embed_widget_url": "https://blacklink.in/embed/rhode-island-llc-calculator"
+    },
+    {
+      "state_slug": "south-carolina",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/south-carolina",
+      "embed_widget_url": "https://blacklink.in/embed/south-carolina-llc-calculator"
+    },
+    {
+      "state_slug": "south-dakota",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/south-dakota",
+      "embed_widget_url": "https://blacklink.in/embed/south-dakota-llc-calculator"
+    },
+    {
+      "state_slug": "tennessee",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/tennessee",
+      "embed_widget_url": "https://blacklink.in/embed/tennessee-llc-calculator"
+    },
+    {
+      "state_slug": "texas",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/texas",
+      "embed_widget_url": "https://blacklink.in/embed/texas-llc-calculator"
+    },
+    {
+      "state_slug": "utah",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/utah",
+      "embed_widget_url": "https://blacklink.in/embed/utah-llc-calculator"
+    },
+    {
+      "state_slug": "vermont",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/vermont",
+      "embed_widget_url": "https://blacklink.in/embed/vermont-llc-calculator"
+    },
+    {
+      "state_slug": "virginia",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/virginia",
+      "embed_widget_url": "https://blacklink.in/embed/virginia-llc-calculator"
+    },
+    {
+      "state_slug": "washington",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/washington",
+      "embed_widget_url": "https://blacklink.in/embed/washington-llc-calculator"
+    },
+    {
+      "state_slug": "west-virginia",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/west-virginia",
+      "embed_widget_url": "https://blacklink.in/embed/west-virginia-llc-calculator"
+    },
+    {
+      "state_slug": "wisconsin",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/wisconsin",
+      "embed_widget_url": "https://blacklink.in/embed/wisconsin-llc-calculator"
+    },
+    {
+      "state_slug": "wyoming",
+      "calculator_url": "https://blacklink.in/llc-tax-calculator/wyoming",
+      "embed_widget_url": "https://blacklink.in/embed/wyoming-llc-calculator"
+    }
+  ]
+}
